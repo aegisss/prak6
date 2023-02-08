@@ -1,0 +1,9 @@
+Name: Квадрат
+Height: 15
+Width: 22
+Name: Прямоугольник
+Height: 10
+Width: 20
+Name: Прямоугольник
+Height: 20
+Width: 30
